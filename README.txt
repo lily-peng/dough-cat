@@ -1,4 +1,6 @@
-Hi! This is a Gameboy Advanced game I programmed in C using TONC.
+Hi! This is a Gameboy Advance game I programmed in C using TONC.
+
+Play by running DoughCat.gba with an emulator on your PC.
 
 Join Dough Cat, the twin of the famous Nyan Cat, traveling across the galaxy!
 
