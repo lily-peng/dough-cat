@@ -1,4 +1,4 @@
-![dough-cat](screenshot.jpg)
+![dough-cat](dough-cat/screenshot.jpg)
 
 Hi! This is a Gameboy Advance game I programmed in C using TONC.
 
